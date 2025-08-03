@@ -4,20 +4,20 @@
 import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
-  lang: 'en-US',
-  site: 'https://slate-blog-demo.vercel.app',
+  lang: 'zh-CN',
+  site: 'https://a.suola.link/',
   avatar: '/avatar.png',
-  title: 'Slate Blog',
-  description: 'Pure thoughts, simple stories.',
+  title: '机场推荐',
+  description: '2025便宜稳定好用性价比机场推荐',
   lastModified: true,
   readTime: true,
   footer: {
-    copyright: '© 2025 Slate Design',
+    copyright: '© 2025 机场推荐',
   },
   socialLinks: [
     {
-      icon: 'github',
-      link: 'https://github.com/SlateDesign/slate-blog'
+      icon: 'telegram',
+      link: 'https://t.me/jichang360'
     },
 ]
 });
