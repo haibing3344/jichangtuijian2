@@ -43,7 +43,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv03.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
 |[Nanocloud](#nanocloud)|[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
-|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.521pokemon.com/register?code=56ERkkxp)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
+|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://a.suola.link/pokemon)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
 |[网际快车](#网际快车)|[https://wjkc66.vip](https://wjkc66.vip/?c=APIXRJ)| 1小时体验券：888888 | 6.8元 20G/不限时|✔支持|[telegram](https://t.me/wjkc66)|
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/JAKFEwKc.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
@@ -372,7 +372,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?
 
 ### 宝可梦星云
 
-宝可梦星云官网地址：[https://love.52pokemon.cc](https://love.521pokemon.com/register?code=56ERkkxp)
+宝可梦星云官网地址：[https://love.52pokemon.cc](https://a.suola.link/pokemon)
 
 最便宜的 6.9 元 60G/月。
 
@@ -513,7 +513,7 @@ Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?
 - 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)<br>
 - 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)<br>
 - 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
-- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://love.521pokemon.com/register?code=56ERkkxp)<br>
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://a.suola.link/pokemon)<br>
 - 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)<br>
 - 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
 - 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)<br>
