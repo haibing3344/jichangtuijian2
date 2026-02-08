@@ -38,7 +38,7 @@ Clash Meta for Android是Clash for Android的升级版，由于原版Clash for A
 Clash Meta for Android可在GitHub官方仓库获取最新版本：
 - GitHub官方仓库：[https://github.com/MetaCubeX/ClashMetaForAndroid/releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
-- 网盘备用下载地址 ： [https://wwic.lanzouo.com/b0zk6wg0f](https://wwic.lanzouo.com/b0zk6wg0f)  密码：`aox1`
+- 网盘备用下载地址 ： [http://wwauo.appboz.com/b0zk6wg0f](http://wwauo.appboz.com/b0zk6wg0f)  密码：`aox1`
 
 ### 2.2 版本选择
 
