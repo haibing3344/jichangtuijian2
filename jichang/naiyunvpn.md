@@ -9,7 +9,7 @@ tags: ["机场推荐","便宜机场"]
 
 # 奈云VPN官网地址
 
-最新地址：[v2ny.com](https://c.jichangs.com/youxinyun)
+最新地址：[v2ny.com](https://c.jichangs.com/naiyun)
 
 ## 奈云VPN介绍
 
