@@ -39,10 +39,10 @@ tags: ["机场推荐", "便宜机场"]
 ## 青云梯机场套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 年付小包 | 60 GB | 无限制 | 不限速 | 96元/年 | [注册购买](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM) |
-| VIP1 | 150 GB | 无限制 | 不限速 | 25.00元/月 | [注册购买](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM) |
-| VIP2 | 300 GB | 无限制 | 不限速 | 45.00元/月 |  [注册购买](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM) |
-[访问青云梯机场官网](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)
+| 年付小包 | 60 GB | 无限制 | 不限速 | 96元/年 | [注册购买](https://c.jichangs.com/qyt) |
+| VIP1 | 150 GB | 无限制 | 不限速 | 25.00元/月 | [注册购买](https://c.jichangs.com/qyt) |
+| VIP2 | 300 GB | 无限制 | 不限速 | 45.00元/月 |  [注册购买](https://c.jichangs.com/qyt) |
+[访问青云梯机场官网](https://c.jichangs.com/qyt)
 ---------
 ---------
 ::: tip 🎉 节点推荐

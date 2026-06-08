@@ -26,15 +26,15 @@ tags: ["机场推荐", "便宜机场"]
 ## flybit机场套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 每月-100G | 100 GB | 无限制 | 不限速 | 12.00元/月 | [注册购买](https://goflybit.pages.dev/#/register?code=o7YHNoqs) |
-| 每月-160G | 160 GB | 无限制 |不限速 | 18.00元/月 | [注册购买](https://goflybit.pages.dev/#/register?code=o7YHNoqs) |
-|每月-220G | 2200 GB | 无限制 | 不限速 | 24.00元/月 |  [注册购买](https://goflybit.pages.dev/#/register?code=o7YHNoqs) |
-|每月-400G | 400 GB | 无限制 | 不限速 | 36.00元/月 |  [注册购买](https://goflybit.pages.dev/#/register?code=o7YHNoqs) |
-|不限时-100G | 100 GB | 无限制 | 不限速 | 28.00元/月 |  [注册购买](https://goflybit.pages.dev/#/register?code=o7YHNoqs) |
-|不限时-200G | 200 GB | 无限制 | 不限速 | 48.00元/月 |  [注册购买](https://goflybit.pages.dev/#/register?code=o7YHNoqs) |
-|不限时-400G | 400 GB | 无限制 | 不限速 | 82.00元/月 |  [注册购买](https://goflybit.pages.dev/#/register?code=o7YHNoqs) |
-|不限时-1024G| 1024 GB | 无限制 | 不限速 | 168.00元/月 |  [注册购买](https://goflybit.pages.dev/#/register?code=o7YHNoqs) |
-[访问flybit机场官网](https://goflybit.pages.dev/#/register?code=o7YHNoqs)
+| 每月-100G | 100 GB | 无限制 | 不限速 | 12.00元/月 | [注册购买](https://c.jichangs.com/flybit) |
+| 每月-160G | 160 GB | 无限制 |不限速 | 18.00元/月 | [注册购买](https://c.jichangs.com/flybit) |
+|每月-220G | 2200 GB | 无限制 | 不限速 | 24.00元/月 |  [注册购买](https://c.jichangs.com/flybit) |
+|每月-400G | 400 GB | 无限制 | 不限速 | 36.00元/月 |  [注册购买](https://c.jichangs.com/flybit) |
+|不限时-100G | 100 GB | 无限制 | 不限速 | 28.00元/月 |  [注册购买](https://c.jichangs.com/flybit) |
+|不限时-200G | 200 GB | 无限制 | 不限速 | 48.00元/月 |  [注册购买](https://c.jichangs.com/flybit) |
+|不限时-400G | 400 GB | 无限制 | 不限速 | 82.00元/月 |  [注册购买](https://c.jichangs.com/flybit) |
+|不限时-1024G| 1024 GB | 无限制 | 不限速 | 168.00元/月 |  [注册购买](https://c.jichangs.com/flybit) |
+[访问flybit机场官网](https://c.jichangs.com/flybit)
 ---------
 ---------
 ::: tip 🎉 节点推荐

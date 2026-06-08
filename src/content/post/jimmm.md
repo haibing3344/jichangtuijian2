@@ -23,10 +23,10 @@ tags: ["机场推荐", "便宜机场"]
 ## jimmm机场套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 年付套餐 | 80 GB | 无限制 | 1000M | 80元/年 | [注册购买](https://jimmm.life/register?code=BgQ1LKH5) |
-| 1号套餐 | 100 GB | 无限制 | 1000M | 14元/月 | [注册购买](https://jimmm.life/register?code=BgQ1LKH5) |
-| 2号套餐 | 200 GB | 无限制 | 1000M | 16元/月 |  [注册购买](https://jimmm.life/register?code=BgQ1LKH5) |
-[访问jimmm机场官网](https://jimmm.life/register?code=BgQ1LKH5)
+| 年付套餐 | 80 GB | 无限制 | 1000M | 80元/年 | [注册购买](https://c.jichangs.com/jimmm) |
+| 1号套餐 | 100 GB | 无限制 | 1000M | 14元/月 | [注册购买](https://c.jichangs.com/jimmm) |
+| 2号套餐 | 200 GB | 无限制 | 1000M | 16元/月 |  [注册购买](https://c.jichangs.com/jimmm) |
+[访问jimmm机场官网](https://c.jichangs.com/jimmm)
 ---------
 ---------
 ::: tip 🎉 节点推荐

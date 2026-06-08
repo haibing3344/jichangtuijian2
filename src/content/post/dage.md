@@ -21,13 +21,13 @@ tags: ["机场推荐", "便宜机场"]
 ### 大哥云套餐价格
 |  **套餐**  | **月流量** | **在线设备数** | **价格**  |                          **购买**                          |
 | :--------: | :--------: | :------------: | :-------: | :--------------------------------------------------------: |
-| 小流量年付 |   15 GB    |      不限      |  88元/年  | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 单月套餐A  |   100 GB   |      不限      | 19.9元/月 | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 单月套餐B  |   150 GB   |      不限      | 29.9元/月 | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 季付套餐A  |   200 GB   |      不限      | 69元/季度 | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 年付套餐A  |   300 GB   |      不限      | 199元/年  | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 年付套餐B  |   500 GB   |      不限      | 299元/年  | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-注册链接：[https://dgy.dgywzc.com/#register?code=JSSN0WQ9](https://dgy.dgywzc.com/#register?code=JSSN0WQ9)
+| 小流量年付 |   15 GB    |      不限      |  88元/年  | [注册购买](https://c.jichangs.com/dage) |
+| 单月套餐A  |   100 GB   |      不限      | 19.9元/月 | [注册购买](https://c.jichangs.com/dage) |
+| 单月套餐B  |   150 GB   |      不限      | 29.9元/月 | [注册购买](https://c.jichangs.com/dage) |
+| 季付套餐A  |   200 GB   |      不限      | 69元/季度 | [注册购买](https://c.jichangs.com/dage) |
+| 年付套餐A  |   300 GB   |      不限      | 199元/年  | [注册购买](https://c.jichangs.com/dage) |
+| 年付套餐B  |   500 GB   |      不限      | 299元/年  | [注册购买](https://c.jichangs.com/dage) |
+注册链接：[https://c.jichangs.com/dage](https://c.jichangs.com/dage)
 
 
 ::: tip 🎉 节点推荐

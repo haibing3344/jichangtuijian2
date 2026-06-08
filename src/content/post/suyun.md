@@ -22,12 +22,12 @@ tags: ["机场推荐", "便宜机场"]
 ### 速云梯套餐价格
 |   **套餐**   | **月流量** | **在线设备数** |  **价格**  |                          **购买**                          |
 | :----------: | :--------: | :------------: | :--------: | :--------------------------------------------------------: |
-|    入门版    |   100 GB   |       2        | 19.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
-|    基础版    |   200 GB   |       3        | 29.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
-|    标准版    |   350 GB   |       5        | 39.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
-|    旗舰版    |   600 GB   |       8        | 59.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
-| 旗舰版大流量 |  1200 GB   |       10       | 99.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
-注册链接：[https://suyunti981.xyz/auth/register?code=37Wm](https://suyunti981.xyz/auth/register?code=37Wm)
+|    入门版    |   100 GB   |       2        | 19.99元/月 | [注册购买](hhttps://c.jichangs.com/suyunti) |
+|    基础版    |   200 GB   |       3        | 29.99元/月 | [注册购买](hhttps://c.jichangs.com/suyunti) |
+|    标准版    |   350 GB   |       5        | 39.99元/月 | [注册购买](hhttps://c.jichangs.com/suyunti) |
+|    旗舰版    |   600 GB   |       8        | 59.99元/月 | [注册购买](hhttps://c.jichangs.com/suyunti) |
+| 旗舰版大流量 |  1200 GB   |       10       | 99.99元/月 | [注册购买](hhttps://c.jichangs.com/suyunti) |
+注册链接：[hhttps://c.jichangs.com/suyunti](hhttps://c.jichangs.com/suyunti)
 
 ---
 

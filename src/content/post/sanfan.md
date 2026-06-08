@@ -23,13 +23,13 @@ tags: ["机场推荐", "便宜机场"]
 ### 三番云套餐价格
 | **套餐** | **月流量** | **在线设备数** | **价格**  |                           **购买**                           |
 | :------: | :--------: | :------------: | :-------: | :----------------------------------------------------------: |
-|  筑基期  |   100 GB   |      不限      | 15.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-|  元婴期  |   200 GB   |      不限      | 26.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-|  化神期  |   300 GB   |      不限      | 36.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-|  炼虚期  |   600 GB   |      不限      | 50.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-|  大乘期  |  1200 GB   |      不限      | 96.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-| 陆地神仙 |  10000 GB  |      不限      | 500元/月  | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-注册链接：[https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1)
+|  筑基期  |   100 GB   |      不限      | 15.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+|  元婴期  |   200 GB   |      不限      | 26.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+|  化神期  |   300 GB   |      不限      | 36.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+|  炼虚期  |   600 GB   |      不限      | 50.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+|  大乘期  |  1200 GB   |      不限      | 96.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+| 陆地神仙 |  10000 GB  |      不限      | 500元/月  | [注册购买](https://c.jichangs.com/3fan) |
+注册链接：[https://c.jichangs.com/3fan](https://c.jichangs.com/3fan)
 -----
 ::: tip 🎉 节点推荐
 - 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://c.jichangs.com/cyberguard)<br>

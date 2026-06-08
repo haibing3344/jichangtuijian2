@@ -12,11 +12,11 @@ tags: ["机场推荐", "便宜机场"]
 ## 流量光机场套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 体验套餐 | 150 GB | 不限 | 不限 | 4.9元/月 | [注册购买](https://llgjc1.com/#/register?code=X4BNUzBu) |
-| 高级套餐 | 200 GB | 不限 |不限 | 9.9元/月 | [注册购买](https://llgjc1.com/#/register?code=X4BNUzBu) |
-| 豪华套餐 | 500 GB | 不限 | 不限 | 9.99元/月 |  [注册购买](https://llgjc1.com/#/register?code=X4BNUzBu) |
-|年付套餐 | 60GB | 不限 | 不限 | 20元/年 |  [注册购买](https://llgjc1.com/#/register?code=X4BNUzBu) |
-[访问流量光机场官网](https://llgjc1.com/#/register?code=X4BNUzBu)
+| 体验套餐 | 150 GB | 不限 | 不限 | 4.9元/月 | [注册购买](https://c.jichangs.com/runway) |
+| 高级套餐 | 200 GB | 不限 |不限 | 9.9元/月 | [注册购买](https://c.jichangs.com/runway) |
+| 豪华套餐 | 500 GB | 不限 | 不限 | 9.99元/月 |  [注册购买](https://c.jichangs.com/runway) |
+|年付套餐 | 60GB | 不限 | 不限 | 20元/年 |  [注册购买](https://c.jichangs.com/runway) |
+[访问流量光机场官网](https://c.jichangs.com/runway)
 ---------
 ---------
 ::: tip 🎉 节点推荐

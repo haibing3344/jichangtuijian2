@@ -15,12 +15,12 @@ tags: ["机场推荐", "便宜机场"]
 ## 三毛机场套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 轻量套餐 | 5 GB | 不限 | 不详 | 3元/年 | [注册购买](https://gw-1.xn--ehqx7tcnnope.com/#/register?code=AdIdGx8O) |
-| 大流量套餐 | 1200 GB | 不限 |不详 | 5元/月 | [注册购买](https://gw-1.xn--ehqx7tcnnope.com/#/register?code=AdIdGx8O) |
-| 小流量套餐 | 100 GB | 不限 | 不详 | 9.99元/年 |  [注册购买](https://gw-1.xn--ehqx7tcnnope.com/#/register?code=AdIdGx8O) |
-| 中流量套餐 | 200 GB | 不限 | 不详 | 19.99元/年 |  [注册购买](https://gw-1.xn--ehqx7tcnnope.com/#/register?code=AdIdGx8O) |
-|不限流量套餐 | 不限 | 不限 | 不详 | 8元/月 |  [注册购买](https://gw-1.xn--ehqx7tcnnope.com/#/register?code=AdIdGx8O) |
-[访问三毛机场官网](https://gw-1.xn--ehqx7tcnnope.com/#/register?code=AdIdGx8O)
+| 轻量套餐 | 5 GB | 不限 | 不详 | 3元/年 | [注册购买](https://c.jichangs.com/wjkc) |
+| 大流量套餐 | 1200 GB | 不限 |不详 | 5元/月 | [注册购买](https://c.jichangs.com/wjkc) |
+| 小流量套餐 | 100 GB | 不限 | 不详 | 9.99元/年 |  [注册购买](https://c.jichangs.com/wjkc) |
+| 中流量套餐 | 200 GB | 不限 | 不详 | 19.99元/年 |  [注册购买](https://c.jichangs.com/wjkc) |
+|不限流量套餐 | 不限 | 不限 | 不详 | 8元/月 |  [注册购买](https://c.jichangs.com/wjkc) |
+[访问三毛机场官网](https://c.jichangs.com/wjkc)
 ---------
 ---------
 ::: tip 🎉 节点推荐

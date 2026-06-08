@@ -22,12 +22,12 @@ tags: ["机场推荐", "便宜机场"]
 ### 龙猫云套餐价格
 |  **套餐**   | **月流量** | **在线设备数** | **价格** |                          **购买**                          |
 | :---------: | :--------: | :------------: | :------: | :--------------------------------------------------------: |
-|  VIP1套餐   |   100 GB   |      不限      | 15元/月  | [注册购买](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS) |
-|  VIP2套餐   |   200 GB   |      不限      | 30元/月  | [注册购买](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS) |
-|  VIP3套餐   |   400 GB   |      不限      | 60元/月  | [注册购买](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS) |
-|  VIP4套餐   |  1000 GB   |      不限      | 120元/月 | [注册购买](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS) |
-| DIY定制套餐 |    定制    |      不限      | 680元/月 | [注册购买](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS) |
-注册链接：[https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)
+|  VIP1套餐   |   100 GB   |      不限      | 15元/月  | [注册购买](https://c.jichangs.com/longmao) |
+|  VIP2套餐   |   200 GB   |      不限      | 30元/月  | [注册购买](https://c.jichangs.com/longmao) |
+|  VIP3套餐   |   400 GB   |      不限      | 60元/月  | [注册购买](https://c.jichangs.com/longmao) |
+|  VIP4套餐   |  1000 GB   |      不限      | 120元/月 | [注册购买](https://c.jichangs.com/longmao) |
+| DIY定制套餐 |    定制    |      不限      | 680元/月 | [注册购买](https://c.jichangs.com/longmao) |
+注册链接：[https://c.jichangs.com/longmao](https://c.jichangs.com/longmao)
 ------
 ------
 ::: tip 🎉 节点推荐

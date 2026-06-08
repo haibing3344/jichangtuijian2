@@ -27,10 +27,10 @@ tags: ["机场推荐", "便宜机场"]
 ## 好好云机场套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 入门套餐 | 100 GB | 3 | 不限速 | 10元/月 | [注册购买](https://52hhy.com/register?code=O8QZSPvG) |
-| 进阶套餐 | 150 GB | 5 | 不限速 | 14元/月 | [注册购买](https://52hhy.com/register?code=O8QZSPvG) |
-| 高阶套餐 | 300 GB | 10 | 不限速 | 25元/月 |  [注册购买](https://52hhy.com/register?code=O8QZSPvG) |
-[访问好好云机场官网](https://52hhy.com/register?code=O8QZSPvG)
+| 入门套餐 | 100 GB | 3 | 不限速 | 10元/月 | [注册购买](https://c.jichangs.com/hhy) |
+| 进阶套餐 | 150 GB | 5 | 不限速 | 14元/月 | [注册购买](https://c.jichangs.com/hhy) |
+| 高阶套餐 | 300 GB | 10 | 不限速 | 25元/月 |  [注册购买](https://c.jichangs.com/hhy) |
+[访问好好云机场官网](https://c.jichangs.com/hhy)
 ---------
 ---------
 ::: tip 🎉 节点推荐

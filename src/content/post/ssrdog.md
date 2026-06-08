@@ -26,10 +26,10 @@ tags: ["机场推荐", "便宜机场"]
 ## SSRDog机场套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 轻量套餐 | 150 GB | 3 | 300Mbps | 25.00元/月 | [注册购买](https://st1.hosbb.com/#/register?code=WM55GuJt) |
-| 标准套餐 | 300 GB | 5 | 500Mbps | 35.00元/月 | [注册购买](https://st1.hosbb.com/#/register?code=WM55GuJt) |
-| 企业套餐 | 850 GB | 10 | 1000Mbps | 75.00元/月 |  [注册购买](https://st1.hosbb.com/#/register?code=WM55GuJt) |
-[访问SSRDog机场官网](https://st1.hosbb.com/#/register?code=WM55GuJt)
+| 轻量套餐 | 150 GB | 3 | 300Mbps | 25.00元/月 | [注册购买](https://c.jichangs.com/yfy) |
+| 标准套餐 | 300 GB | 5 | 500Mbps | 35.00元/月 | [注册购买](https://c.jichangs.com/yfy) |
+| 企业套餐 | 850 GB | 10 | 1000Mbps | 75.00元/月 |  [注册购买](https://c.jichangs.com/yfy) |
+[访问SSRDog机场官网](https://c.jichangs.com/yfy)
 ---------
 ---------
 ::: tip 🎉 节点推荐
