@@ -23,10 +23,10 @@ category: "机场推荐"
 ## anyway机场套餐价格
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| 初级月付 | 100 GB | 无限制 | 8000M | 8.88元/月 | [注册购买](https://www.anyway.best/#/register?code=NM9asaGL) |
-| 中级月付 | 300 GB | 无限制 | 800M | 19.90元/月 | [注册购买](https://www.anyway.best/#/register?code=NM9asaGL) |
-| 高级月付 | 1000 GB | 无限制 | 800M | 39.90元/月 |  [注册购买](https://www.anyway.best/#/register?code=NM9asaGL) |
-[访问anyway机场官网](https://www.anyway.best/#/register?code=NM9asaGL)
+| 初级月付 | 100 GB | 无限制 | 8000M | 8.88元/月 | [注册购买](https://c.jichangs.com/anyway) |
+| 中级月付 | 300 GB | 无限制 | 800M | 19.90元/月 | [注册购买](https://c.jichangs.com/anyway) |
+| 高级月付 | 1000 GB | 无限制 | 800M | 39.90元/月 |  [注册购买](https://c.jichangs.com/anyway) |
+[访问anyway机场官网](https://c.jichangs.com/anyway)
 
 ::: tip 🎉 节点推荐
 - 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://c.jichangs.com/cyberguard)<br>

@@ -26,14 +26,14 @@ tags: ["机场推荐", "便宜机场"]
 
 | **套餐** | **月流量** | **在线设备数** | **价格** |                           **购买**                           |
 | :------: | :--------: | :------------: | :------: | :----------------------------------------------------------: |
-| 轻量年付 |   60 GB    |      不限      | 96元/年  | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
-| 普通套餐 |   110 GB   |      不限      | 20元/月  | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
-| 高级套餐 |   220 GB   |      不限      | 40元/月  | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
-| 专业套餐 |   440 GB   |      不限      | 80元/月  | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
-| 企业套餐 |  1200 GB   |      不限      | 200元/月 | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
+| 轻量年付 |   60 GB    |      不限      | 96元/年  | [注册购买](https://c.jichangs.com/xxf) |
+| 普通套餐 |   110 GB   |      不限      | 20元/月  | [注册购买](https://c.jichangs.com/xxf) |
+| 高级套餐 |   220 GB   |      不限      | 40元/月  | [注册购买](https://c.jichangs.com/xxf) |
+| 专业套餐 |   440 GB   |      不限      | 80元/月  | [注册购买](https://c.jichangs.com/xxf) |
+| 企业套餐 |  1200 GB   |      不限      | 200元/月 | [注册购买](https://c.jichangs.com/xxf) |
 
 ### 小旋风优惠码
-注册链接：[https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772)
+注册链接：[https://c.jichangs.com/xxf](https://c.jichangs.com/xxf)
 
 ---
 
