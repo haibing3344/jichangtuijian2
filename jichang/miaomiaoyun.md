@@ -9,7 +9,7 @@ tags: ["机场推荐","便宜机场"]
 
 # 秒秒云机场官网地址
 
-最新地址：[秒秒云机场.com](https://c.jichangs.com/youxinyun)
+最新地址：[秒秒云机场.com](https://c.jichangs.com/miaomiaoyun)
 
 ## 秒秒云介绍
 
